@@ -108,7 +108,7 @@ The gate, the store simulation and the approval queue work without a key.
 
 ## Built with
 
-Google AI Studio, Gemini, TypeScript. [EDIT to match what you actually used]
+Google AI Studio, Gemini, TypeScript.
 
 ## Author
 
