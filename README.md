@@ -12,7 +12,7 @@ An AI agent can *propose* a business action. It can't *execute* one. Every propo
 
 The first prototype covers **ecommerce refunds** in a simulated store, so you can see how a business keeps control over what its AI agents do.
 
-**Live demo:** [ADD YOUR LINK HERE]
+
 
 ---
 
@@ -79,8 +79,6 @@ When a human approves a ticket, the gate **re-checks the block rules first**. A 
 
 ## Run it locally
 
-[FILL THIS IN to match your project. For most AI Studio exports it's something like:]
-
 ```bash
 npm install
 npm run dev
@@ -114,4 +112,4 @@ Google AI Studio, Gemini, TypeScript. [EDIT to match what you actually used]
 
 ## Author
 
-Built by Aisha. [ADD YOUR LINKEDIN LINK HERE]
+Built by Aisha.
