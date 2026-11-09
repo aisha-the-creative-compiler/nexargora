@@ -1,0 +1,6 @@
+{
+  "name": "NexAegora",
+  "description": "Rule-based safety gate and risk control engine for autonomous AI agents managing ecommerce refunds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
